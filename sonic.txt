@@ -109,7 +109,6 @@ Alright! Our next adventure awaits us, so there's no time to waste! Yeah! We're 
 # -------------
 # Sonic Battle
 # -------------
-I wonder if it's busted. Look at all this dust. I wonder how long it's been here. Hey! Are you all right?
 Can't speak, eh? Well, it figures. Can't expect much from ol' Eggman. Well, let's get you over to Tails' first, so we can help you out!
 Huh? What did it say? Show it my power? Like this? Heh heh...
 You didn't think I would simply say "Yes," did you?
@@ -137,7 +136,6 @@ A big favor? You're a thief! And, you're after Emerl too, right?
 Ha ha ha! Just as Rouge said! Hey, Emerl! Ignore Knuckles! Just ignore him!
 A wild guess! A hedgehog's hunch!
 So Rouge, what were you planning to do with him? If you've done something bad with him, I won't let you off easy!
-I'll get Emerl back somehow!
 "Emerl, my dear?" Why are you talking like that, Amy?
 Looks like you both have one thing in common... Persistence.
 I've heard that he who collects 7 "Chaos Emerald" will be granted unlimited energy. So, are you trying to tell me that awakening Emerl is dangerous?
