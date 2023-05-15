@@ -33,7 +33,7 @@ def getQuote() -> str:
     log.append(random_quote)
     with open("recent_quotes.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(log))
-    return random_quote
+    return random_quote.replace("\\n", "\n")
 
 
 client.create_tweet(text=getQuote())
