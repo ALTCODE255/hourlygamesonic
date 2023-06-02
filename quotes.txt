@@ -123,11 +123,11 @@ Tails! Are you all right? Hang on, I'll be right there!
 Fighting skills? Hey, are you sure this thing will even stand on its own? It looks pretty beat up.
 Wh-what was that? Some kind of bright light... It happened when we were fighting Shadow too...
 So what you mean is, if I kick him, he will learn my move, and kick just like I did. Am I following you right, Tails?
-Yeah, that's its name. It's powered by "Chaos Emeralds", so I named it "Emerl"! Cool name, eh?
+Yeah, that's its name. It's powered by Chaos Emeralds, so I named it Emerl! Cool name, eh?
 I just got a great idea! Hey, Emerl! Go destroy that fake copy!
 Emerl! Don't let your guard down! Here it comes again!
 Hey, it looks just like Gamma!
-Oh, boy... There's no stopping Knuckles once he gets all riled up. OK, listen up, Emerl. This guy won't listen to anybody who is weaker than he is. So if we want to talk to him about "Chaos Emeralds," you've got to beat him first.
+Oh, boy... There's no stopping Knuckles once he gets all riled up. OK, listen up, Emerl. This guy won't listen to anybody who is weaker than he is. So if we want to talk to him about Chaos Emeralds, you've got to beat him first.
 Emerl... You...
 Hey, Emerl! Let's play over by the beach! I'll teach you some secret techniques!
 No, I can't believe it! He's just a robot, right? You could change its insides real quick, and fix this problem, right?
@@ -139,10 +139,10 @@ A wild guess! A hedgehog's hunch!
 So Rouge, what were you planning to do with him? If you've done something bad with him, I won't let you off easy!
 "Emerl, my dear?" Why are you talking like that, Amy?
 Looks like you both have one thing in common... Persistence.
-I've heard that he who collects 7 "Chaos Emerald" will be granted unlimited energy. So, are you trying to tell me that awakening Emerl is dangerous?
+I've heard that he who collects 7 Chaos Emeralds will be granted unlimited energy. So, are you trying to tell me that awakening Emerl is dangerous?
 I don't think he has it in him. The Emerl I know would never destroy the world.
 What about you?! You say he's the ultimate weapon, but weren't you supposed to be the military's ultimate secret weapon?! Maybe you've forgotten, but I seem to recall you saving humanity at some point.
-Exactly! If you have a heart, you would never use your power for the forces of evil! There's no way you could! Weapons aren't supposed to have "hearts." But, both you and Emerl do! You guys... You aren't just weapons!
+Exactly! If you have a heart, you would never use your power for the forces of evil! There's no way you could! Weapons aren't supposed to have "hearts". But, both you and Emerl do! You guys... You aren't just weapons!
 Shadow?! And one more thing! Rouge said that there's a keyword that can free Emerl! If we could find out what it is, Emerl could become just a normal robot!
 Shadow... All right, all right! Just take Emerl, already! If you're not going to listen to me, then do whatever you want!
 You have a heart. Emerl has a heart. I don't think either of you has it in you to kill! Maybe you guys should just play games together or something?
@@ -156,7 +156,7 @@ But hey, Emerl... I'm not your guardian anymore, so if there's one thing I want 
 Haha! Look who's all grown up now! One more thing, you need to work on your punches! They just look lame! Who showed you how to punch, anyway? Look, punches should be more like this...
 Eggman! Did you come all the way here just to mess with Emerl again? You know, being over persistent won't win you any popularity contests!
 You really have grown up, Emerl!
-Haha! Things are finally getting exciting! Hmm... So that's the "Death Egg," huh? I can see why the old guy was so excited... That thing's huge!
+Haha! Things are finally getting exciting! Hmm... So that's the Death Egg, huh? I can see why the old guy was so excited... That thing's huge!
 Really... Well, Emerl! You should be the one to go, shouldn't you?
 Emerl? Can you hear me? We're watching from a monitor over here! We can project our voices to your location, so we'll be cheering you on! Amy, Cream, Shadow, and Rouge should be here soon, too!
 Emerl! Emerl! Hang in there!!!! Emerl!! Act tough like you always do! Come on! That's an order!!! Emerl!!!!!!
@@ -446,7 +446,7 @@ You mean like big ol' haunted house? Ha ha! This'll be cool! It'll be like Hallo
 Guess I can't be the hero every time.
 Yeah, well it's got pretty smart mouth on it for a sword.
 Well, it's your fault! You're a sad excuse for a teacher!
-Stop calling me "knave!" I'm Sonic the Hedgehog!
+Stop calling me "knave"! I'm Sonic the Hedgehog!
 Whatever, you oversized letter opener.
 Heh! Not the sharpest tool in the shed, huh?
 Gentleman? Who are you calling "gentleman"?
