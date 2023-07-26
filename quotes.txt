@@ -30,7 +30,7 @@ What's this place? Where am I? This is really weird.
 We can't let that monster get any bigger. It could get ugly!
 Don't you realize when you've been tricked?
 All right, Tails! Way to go! The plane's cool! Now, what do you say we nail those guys?
-Waaaaaa....!
+Waaaaaa...!
 Knuckles, did you let him trick you again?
 Yawn. Guess Eggman's learned his lesson... yep! And maybe I'll take another vacation somewhere.
 Knuckles! And Eggman? What happened here?
@@ -49,7 +49,7 @@ How can that help? It won't change how he feels inside, will it? His heart will 
 Talk about low budget flights, no food or movies... I'm outta here! I like running better!
 This game of tag is boring! I'm outta here!
 Ha! Finally decided to show up, eh? Okay, bring it on!
-Now I know what's going on! The military has mistaken me for the likes of you! So...where do you think you're going with that Emerald!?
+Now I know what's going on! The military has mistaken me for the likes of you! So... where do you think you're going with that Emerald!?
 Say something! You fake hedgehog!
 Wow... he's fast! Hey, it's not his speed. He must be using the Chaos Emerald to warp!
 Kuu! Shadow... what is he?
@@ -212,7 +212,7 @@ Everything should be fine since I have the seven Chaos Emeralds. As long as the 
 # --------------
 # Sonic Riders
 # --------------
-Hey, that's...! ...The EX World Grand Prix, huh? Let's do this!
+Hey, that's...! The EX World Grand Prix, huh? Let's do this!
 Yeah! How can she just walk in and diss Tails?
 Hmm... Well I don't think he's all talk, you know; I better be on my toes during this competition.
 Hey Tails, you always do your best, so don't worry.
